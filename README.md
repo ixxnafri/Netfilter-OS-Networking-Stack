@@ -1,6 +1,5 @@
-Markup :  ## lab_6 ##
-Markup :  #### netfilter ####
-
+## lab_6 
+#### netfilter 
 1.5 - Building your own Lightweight Firewall in the Ubuntu Kernel. This firewall will provide three basic options for dropping packets. These are, in the order of processing:
 * Source interface
 * Destination IP address
